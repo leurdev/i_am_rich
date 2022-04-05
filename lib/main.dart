@@ -22,7 +22,7 @@ class Homepage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.brown,
       appBar: AppBar(
-        backgroundColor: Colors.teal,
+        backgroundColor: Colors.black,
         title: const Text(
           'I Am Rich',
           style: TextStyle(
